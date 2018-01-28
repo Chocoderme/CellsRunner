@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 0bf2803d800a24e119db2f619a0a9fa4
+timeCreated: 1517126351
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AlcoolTiles2_TopLeft
+    21300002: AlcoolTiles2_TopCenter
+    21300004: AlcoolTiles2_TopRight
+    21300006: AlcoolTiles2_MiddleLeft
+    21300008: AlcoolTiles2_MiddleRight
+    21300010: AlcoolTiles2_BottomLeft
+    21300012: AlcoolTiles2_BottomCenter
+    21300014: AlcoolTiles2_BottomRight
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AlcoolTiles2_TopLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 118.596664, y: -0.61499023}
+        - {x: 107.18921, y: -8.488647}
+        - {x: 90.83809, y: -11.130127}
+        - {x: 65.08595, y: -29.107727}
+        - {x: 52.088272, y: -28.518005}
+        - {x: 4.3227844, y: -83.42316}
+        - {x: 0.6900482, y: -127}
+        - {x: -127, y: -127}
+        - {x: -127, y: 127}
+        - {x: 127, y: 127}
+        - {x: 127, y: 0.00592041}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AlcoolTiles2_TopCenter
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 508
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 118.61929, y: -0.035705566}
+        - {x: 101.67386, y: -6.8251343}
+        - {x: 90.22406, y: -6.5407104}
+        - {x: 79.369995, y: -0.6054077}
+        - {x: 64.1828, y: -7.494568}
+        - {x: 44.39969, y: 2.0195312}
+        - {x: 30.678558, y: -5.727478}
+        - {x: 19.133942, y: -0.17602539}
+        - {x: 9.708466, y: -5.6604004}
+        - {x: -7.5217896, y: 0.9880371}
+        - {x: -68.33206, y: -6.7313843}
+        - {x: -83.14261, y: 0.9293823}
+        - {x: -127, y: -2.6051636}
+        - {x: -127, y: 127}
+        - {x: 127, y: 127}
+        - {x: 127, y: 0.3758545}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AlcoolTiles2_TopRight
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 508
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4.062622, y: -127}
+        - {x: -2.7488403, y: -112.256714}
+        - {x: -17.681458, y: -95.18024}
+        - {x: -11.339722, y: -85.49414}
+        - {x: -19.054626, y: -78.992615}
+        - {x: -29.879578, y: -76.69214}
+        - {x: -34.120605, y: -69.27167}
+        - {x: -26.377014, y: -59.375916}
+        - {x: -37.57196, y: -53.27307}
+        - {x: -43.83557, y: -40.86316}
+        - {x: -51.375854, y: -31.784424}
+        - {x: -63.87097, y: -29.717224}
+        - {x: -70.55957, y: -24.08844}
+        - {x: -70.63367, y: -13.265381}
+        - {x: -74.173706, y: -8.713562}
+        - {x: -89.58746, y: -7.7338867}
+        - {x: -97.17566, y: -11.39386}
+        - {x: -105.38904, y: -7.706909}
+        - {x: -115.43848, y: 1.5928955}
+        - {x: -127, y: -2.4276733}
+        - {x: -127, y: 127}
+        - {x: 127, y: 127}
+        - {x: 127, y: -127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AlcoolTiles2_MiddleLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127, y: -127}
+        - {x: -127, y: 127}
+        - {x: 2.0749817, y: 127}
+        - {x: 2.9461517, y: 122.27185}
+        - {x: 11.304718, y: 113.79532}
+        - {x: 5.3531036, y: 101.43494}
+        - {x: 17.783981, y: 82.71887}
+        - {x: 11.013428, y: 72.649994}
+        - {x: 17.594574, y: 60.575714}
+        - {x: 8.80542, y: 29.00595}
+        - {x: 13.824326, y: 18.183441}
+        - {x: 2.999298, y: 1.2962341}
+        - {x: -1.4768143, y: -32.459442}
+        - {x: 7.7018433, y: -54.818695}
+        - {x: 7.979782, y: -82.76041}
+        - {x: 11.459534, y: -88.86575}
+        - {x: 2.4361877, y: -102.918976}
+        - {x: -0.9555588, y: -119.48276}
+        - {x: 2.438446, y: -127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AlcoolTiles2_MiddleRight
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 254
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.2565918, y: -127}
+        - {x: -1.0262451, y: -112.538025}
+        - {x: -12.661865, y: -91.483795}
+        - {x: -5.2180176, y: -80.6749}
+        - {x: -7.2677, y: -68.4953}
+        - {x: -0.71069336, y: -61.89801}
+        - {x: -9.112976, y: -48.030334}
+        - {x: -8.921631, y: -9.250336}
+        - {x: 2.2662354, y: 22.051544}
+        - {x: -6.295471, y: 38.09912}
+        - {x: -3.9769897, y: 57.816498}
+        - {x: -9.289001, y: 77.500885}
+        - {x: -8.4522705, y: 101.01929}
+        - {x: -2.6730957, y: 115.388275}
+        - {x: -3.3294678, y: 127}
+        - {x: 127, y: 127}
+        - {x: 127, y: -127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AlcoolTiles2_BottomLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127, y: -127}
+        - {x: -127, y: 127}
+        - {x: 3.2696838, y: 127}
+        - {x: 1.7356873, y: 121.89209}
+        - {x: 3.6874542, y: 117.45561}
+        - {x: 11.752136, y: 108.97435}
+        - {x: 14.153549, y: 102.64053}
+        - {x: 8.825928, y: 92.187805}
+        - {x: 13.389984, y: 70.4037}
+        - {x: 60.184753, y: 22.263596}
+        - {x: 58.56523, y: 12.477661}
+        - {x: 67.25603, y: 8.709381}
+        - {x: 80.17012, y: 14.373077}
+        - {x: 90.2068, y: 13.63913}
+        - {x: 101.45218, y: 1.9273071}
+        - {x: 127, y: 1.4846497}
+        - {x: 127, y: -127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AlcoolTiles2_BottomCenter
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127, y: -127}
+        - {x: -127, y: 1.91156}
+        - {x: -121.71524, y: 0.7296829}
+        - {x: -114.127686, y: -3.5880203}
+        - {x: -107.56937, y: 0.77337646}
+        - {x: -93.39981, y: 3.4866028}
+        - {x: -84.42322, y: -1.0476074}
+        - {x: -76.54938, y: 1.3347778}
+        - {x: -65.84381, y: 7.4704437}
+        - {x: -56.931366, y: 5.144806}
+        - {x: -38.922577, y: 6.304199}
+        - {x: -33.594635, y: 1.5251617}
+        - {x: -26.890503, y: 1.5347748}
+        - {x: -6.428253, y: 9.378479}
+        - {x: 3.72641, y: 8.821655}
+        - {x: 22.855804, y: -3.8773422}
+        - {x: 33.12918, y: -5.077797}
+        - {x: 45.285645, y: -1.0373001}
+        - {x: 55.781403, y: -1.5904236}
+        - {x: 67.09982, y: 5.0812073}
+        - {x: 76.54169, y: 4.8747253}
+        - {x: 91.47443, y: -4.4727554}
+        - {x: 97.25656, y: -4.3784485}
+        - {x: 108.62317, y: 5.221756}
+        - {x: 113.622406, y: 4.9124146}
+        - {x: 119.99362, y: -0.19247437}
+        - {x: 127, y: 1.1218872}
+        - {x: 127, y: -127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AlcoolTiles2_BottomRight
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127, y: -127}
+        - {x: -127, y: -1.3978882}
+        - {x: -112.25659, y: 6.5111084}
+        - {x: -98.93341, y: 7.5927277}
+        - {x: -85.34259, y: 21.684372}
+        - {x: -79.61456, y: 23.314148}
+        - {x: -68.87958, y: 20.622879}
+        - {x: -56.560303, y: 26.455307}
+        - {x: -53.45233, y: 39.74051}
+        - {x: -49.474487, y: 43.573486}
+        - {x: -36.476257, y: 46.215805}
+        - {x: -23.816895, y: 58.205124}
+        - {x: -27.00885, y: 65.99924}
+        - {x: -26.077515, y: 72.02672}
+        - {x: -13.222778, y: 81.952515}
+        - {x: -19.90326, y: 92.71791}
+        - {x: -8.713196, y: 105.642334}
+        - {x: -12.093567, y: 114.2289}
+        - {x: -4.653137, y: 121.97055}
+        - {x: -2.8447876, y: 127}
+        - {x: 127, y: 127}
+        - {x: 127, y: -127}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

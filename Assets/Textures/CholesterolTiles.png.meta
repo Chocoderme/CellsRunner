@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: 1823fc7b8655244db895f2db59e3be94
+timeCreated: 1517064459
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CholesterolTiles_BottomLeft
+    21300002: CholesterolTiles_MiddleLeft
+    21300004: CholesterolTiles_TopLeft
+    21300006: CholesterolTiles_BottomCenter
+    21300008: CholesterolTiles_MiddleCenter
+    21300010: CholesterolTiles_TopCenter
+    21300012: CholesterolTiles_BottomRight
+    21300014: CholesterolTiles_MiddleRight
+    21300016: CholesterolTiles_TopRight
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CholesterolTiles_BottomLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 127}
+        - {x: -4, y: 102}
+        - {x: 0, y: 62}
+        - {x: 40, y: 14}
+        - {x: 104, y: -5}
+        - {x: 127, y: -5}
+        - {x: 127, y: 127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CholesterolTiles_MiddleLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 127}
+        - {x: -4, y: -127}
+        - {x: 127, y: -127}
+        - {x: 127, y: 127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CholesterolTiles_TopLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 114, y: 5}
+        - {x: 95, y: 2}
+        - {x: 17, y: -18}
+        - {x: -3, y: -89}
+        - {x: -3, y: -127}
+        - {x: 127, y: -127}
+        - {x: 127, y: 5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CholesterolTiles_BottomCenter
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127, y: 127}
+        - {x: -127, y: -5}
+        - {x: -115, y: -6}
+        - {x: 25, y: -6}
+        - {x: 127, y: -5}
+        - {x: 127, y: 127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CholesterolTiles_MiddleCenter
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 254
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127, y: 127}
+        - {x: -127, y: -127}
+        - {x: 127, y: -127}
+        - {x: 127, y: 127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CholesterolTiles_TopCenter
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 508
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127, y: 6}
+        - {x: -127, y: -127}
+        - {x: 127, y: -127}
+        - {x: 127, y: 6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CholesterolTiles_BottomRight
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 110}
+        - {x: 4, y: 127}
+        - {x: -127, y: 127}
+        - {x: -127, y: -5}
+        - {x: -106, y: -5}
+        - {x: -88, y: 0}
+        - {x: -60, y: 5}
+        - {x: -7, y: 52}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CholesterolTiles_MiddleRight
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 254
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127, y: 127}
+        - {x: -127, y: -127}
+        - {x: 5, y: -127}
+        - {x: 5, y: 127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CholesterolTiles_TopRight
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 508
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -60, y: -3}
+        - {x: -106, y: 6}
+        - {x: -127, y: 6}
+        - {x: -127, y: -127}
+        - {x: 4, y: -127}
+        - {x: 4, y: -118}
+        - {x: 3, y: -102}
+        - {x: -9, y: -63}
+        - {x: -32, y: -29}
+      tessellationDetail: 0
+    outline:
+    - - {x: -66, y: -269}
+      - {x: -42, y: -269}
+      - {x: -28, y: -272}
+      - {x: 3, y: -272}
+      - {x: 29, y: -270}
+      - {x: 34, y: -272}
+      - {x: 92, y: -271}
+      - {x: 105, y: -272}
+      - {x: 119, y: -271}
+      - {x: 126, y: -264}
+      - {x: 155, y: -266}
+      - {x: 163, y: -263}
+      - {x: 186, y: -259}
+      - {x: 200, y: -251}
+      - {x: 221, y: -236}
+      - {x: 232, y: -232}
+      - {x: 240, y: -220}
+      - {x: 247, y: -216}
+      - {x: 254, y: -208}
+      - {x: 260, y: -199}
+      - {x: 260, y: -196}
+      - {x: 272, y: -172}
+      - {x: 272, y: -136}
+      - {x: 263, y: -129}
+      - {x: 271, y: -119}
+      - {x: 274, y: -108}
+      - {x: 274, y: -63}
+      - {x: 270, y: -41}
+      - {x: 273, y: -36}
+      - {x: 273, y: -24}
+      - {x: 269, y: -20}
+      - {x: 270, y: -5}
+      - {x: 270, y: 36}
+      - {x: 269, y: 42}
+      - {x: 270, y: 73}
+      - {x: 266, y: 92}
+      - {x: 266, y: 107}
+      - {x: 262, y: 131}
+      - {x: 271, y: 136}
+      - {x: 273, y: 148}
+      - {x: 272, y: 163}
+      - {x: 268, y: 172}
+      - {x: 260, y: 185}
+      - {x: 262, y: 192}
+      - {x: 255, y: 204}
+      - {x: 239, y: 223}
+      - {x: 229, y: 232}
+      - {x: 204, y: 249}
+      - {x: 186, y: 259}
+      - {x: 160, y: 264}
+      - {x: 148, y: 264}
+      - {x: 116, y: 267}
+      - {x: 105, y: 273}
+      - {x: 97, y: 273}
+      - {x: 86, y: 268}
+      - {x: 67, y: 268}
+      - {x: 20, y: 266}
+      - {x: 9, y: 270}
+      - {x: 1, y: 266}
+      - {x: -17, y: 268}
+      - {x: -47, y: 268}
+      - {x: -62, y: 271}
+      - {x: -81, y: 269}
+      - {x: -87, y: 265}
+      - {x: -107, y: 266}
+      - {x: -117, y: 266}
+      - {x: -137, y: 263}
+      - {x: -139, y: 268}
+      - {x: -150, y: 273}
+      - {x: -171, y: 273}
+      - {x: -176, y: 272}
+      - {x: -185, y: 264}
+      - {x: -196, y: 255}
+      - {x: -200, y: 247}
+      - {x: -215, y: 242}
+      - {x: -223, y: 236}
+      - {x: -239, y: 221}
+      - {x: -245, y: 207}
+      - {x: -259, y: 173}
+      - {x: -264, y: 133}
+      - {x: -266, y: 108}
+      - {x: -268, y: 97}
+      - {x: -270, y: 78}
+      - {x: -280, y: 63}
+      - {x: -280, y: 37}
+      - {x: -279, y: 24}
+      - {x: -280, y: 14}
+      - {x: -280, y: 4}
+      - {x: -277, y: -10}
+      - {x: -275, y: -23}
+      - {x: -272, y: -42}
+      - {x: -272, y: -79}
+      - {x: -274, y: -99}
+      - {x: -272, y: -112}
+      - {x: -261, y: -133}
+      - {x: -264, y: -134}
+      - {x: -265, y: -147}
+      - {x: -258, y: -190}
+      - {x: -243, y: -215}
+      - {x: -217, y: -247}
+      - {x: -205, y: -258}
+      - {x: -186, y: -268}
+      - {x: -171, y: -274}
+      - {x: -162, y: -275}
+      - {x: -145, y: -275}
+      - {x: -140, y: -274}
+      - {x: -132, y: -272}
+      - {x: -127, y: -264}
+      - {x: -105, y: -267}
+    - - {x: 11, y: 270}
+      - {x: 11, y: 269}
+      - {x: 15, y: 266}
+      - {x: 18, y: 267}
+      - {x: 18, y: 270}
+      - {x: 16, y: 272}
+      - {x: 13, y: 272}
+    physicsShape:
+    - - {x: -39, y: -260}
+      - {x: 21, y: -259}
+      - {x: 42, y: -259}
+      - {x: 65, y: -258}
+      - {x: 76, y: -259}
+      - {x: 80, y: -258}
+      - {x: 117, y: -260}
+      - {x: 148, y: -259}
+      - {x: 166, y: -254}
+      - {x: 180, y: -248}
+      - {x: 190, y: -243}
+      - {x: 203, y: -234}
+      - {x: 216, y: -227}
+      - {x: 224, y: -219}
+      - {x: 230, y: -212}
+      - {x: 240, y: -198}
+      - {x: 247, y: -186}
+      - {x: 251, y: -165}
+      - {x: 255, y: -150}
+      - {x: 258, y: -135}
+      - {x: 258, y: -123}
+      - {x: 257, y: -114}
+      - {x: 257, y: -97}
+      - {x: 259, y: -89}
+      - {x: 259, y: -71}
+      - {x: 257, y: -39}
+      - {x: 258, y: -27}
+      - {x: 258, y: -17}
+      - {x: 257, y: 15}
+      - {x: 258, y: 26}
+      - {x: 258, y: 41}
+      - {x: 257, y: 53}
+      - {x: 257, y: 82}
+      - {x: 259, y: 98}
+      - {x: 259, y: 123}
+      - {x: 258, y: 128}
+      - {x: 258, y: 147}
+      - {x: 254, y: 159}
+      - {x: 251, y: 171}
+      - {x: 246, y: 185}
+      - {x: 238, y: 197}
+      - {x: 234, y: 206}
+      - {x: 220, y: 223}
+      - {x: 207, y: 234}
+      - {x: 198, y: 241}
+      - {x: 188, y: 246}
+      - {x: 179, y: 251}
+      - {x: 165, y: 255}
+      - {x: 154, y: 257}
+      - {x: 138, y: 260}
+      - {x: 86, y: 260}
+      - {x: 79, y: 259}
+      - {x: 58, y: 259}
+      - {x: 29, y: 258}
+      - {x: -3, y: 260}
+      - {x: -15, y: 258}
+      - {x: -33, y: 259}
+      - {x: -50, y: 258}
+      - {x: -59, y: 259}
+      - {x: -81, y: 259}
+      - {x: -92, y: 260}
+      - {x: -125, y: 260}
+      - {x: -136, y: 259}
+      - {x: -159, y: 257}
+      - {x: -189, y: 246}
+      - {x: -222, y: 221}
+      - {x: -230, y: 212}
+      - {x: -235, y: 205}
+      - {x: -236, y: 202}
+      - {x: -250, y: 170}
+      - {x: -255, y: 145}
+      - {x: -257, y: 132}
+      - {x: -258, y: 123}
+      - {x: -258, y: 104}
+      - {x: -257, y: 99}
+      - {x: -258, y: 84}
+      - {x: -256, y: 59}
+      - {x: -258, y: 41}
+      - {x: -256, y: 37}
+      - {x: -256, y: 16}
+      - {x: -257, y: 5}
+      - {x: -254, y: -1}
+      - {x: -253, y: -20}
+      - {x: -255, y: -20}
+      - {x: -255, y: -48}
+      - {x: -258, y: -60}
+      - {x: -258, y: -90}
+      - {x: -256, y: -123}
+      - {x: -258, y: -125}
+      - {x: -258, y: -136}
+      - {x: -257, y: -148}
+      - {x: -251, y: -167}
+      - {x: -249, y: -172}
+      - {x: -244, y: -180}
+      - {x: -244, y: -188}
+      - {x: -234, y: -203}
+      - {x: -225, y: -215}
+      - {x: -209, y: -232}
+      - {x: -204, y: -233}
+      - {x: -195, y: -243}
+      - {x: -188, y: -243}
+      - {x: -178, y: -249}
+      - {x: -144, y: -257}
+      - {x: -128, y: -259}
+      - {x: -116, y: -260}
+      - {x: -85, y: -260}
+      - {x: -71, y: -259}
+      - {x: -69, y: -260}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

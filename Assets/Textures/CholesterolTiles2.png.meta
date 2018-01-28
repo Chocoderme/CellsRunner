@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: fcd174d8ae05042aa9bb7cb4c797a578
+timeCreated: 1517066008
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CholesterolTiles2_TopLeft
+    21300002: CholesterolTiles2_TopCenter
+    21300004: CholesterolTiles2_TopRight
+    21300006: CholesterolTiles2_MiddleLeft
+    21300008: CholesterolTiles2_MiddleRight
+    21300010: CholesterolTiles2_BottomLeft
+    21300012: CholesterolTiles2_BottomCenter
+    21300014: CholesterolTiles2_BottomRight
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CholesterolTiles2_TopLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 18, y: -83}
+        - {x: 18, y: -80}
+        - {x: 27, y: -65}
+        - {x: 35, y: -54}
+        - {x: 49, y: -40}
+        - {x: 49, y: -39}
+        - {x: 60, y: -29}
+        - {x: 67, y: -25}
+        - {x: 76, y: -19}
+        - {x: 81, y: -18}
+        - {x: 92, y: -14}
+        - {x: 120, y: -8}
+        - {x: 127, y: -6}
+        - {x: 127, y: 127}
+        - {x: -127, y: 127}
+        - {x: -127, y: -127}
+        - {x: 6, y: -127}
+        - {x: 7, y: -125}
+        - {x: 12, y: -101}
+        - {x: 15, y: -93}
+      tessellationDetail: 0.39
+    - serializedVersion: 2
+      name: CholesterolTiles2_TopCenter
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 508
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127, y: 127}
+        - {x: -127, y: -8}
+        - {x: -110, y: -10}
+        - {x: 107, y: -10}
+        - {x: 127, y: -8}
+        - {x: 127, y: 127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CholesterolTiles2_TopRight
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 508
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127, y: 127}
+        - {x: -127, y: -6}
+        - {x: -125, y: -7}
+        - {x: -106, y: -11}
+        - {x: -78, y: -18}
+        - {x: -66, y: -25}
+        - {x: -53, y: -37}
+        - {x: -36, y: -55}
+        - {x: -29, y: -64}
+        - {x: -17, y: -85}
+        - {x: -18, y: -89}
+        - {x: -12, y: -103}
+        - {x: -11, y: -113}
+        - {x: -9, y: -127}
+        - {x: 127, y: -127}
+        - {x: 127, y: 127}
+      tessellationDetail: 0.39
+    - serializedVersion: 2
+      name: CholesterolTiles2_MiddleLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127, y: 127}
+        - {x: -127, y: -127}
+        - {x: 8, y: -127}
+        - {x: 12, y: -55}
+        - {x: 12, y: 98}
+        - {x: 6, y: 127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CholesterolTiles2_MiddleRight
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 254
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 127}
+        - {x: -12, y: -127}
+        - {x: 127, y: -127}
+        - {x: 127, y: 127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CholesterolTiles2_BottomLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 119, y: 10}
+        - {x: 107, y: 13}
+        - {x: 94, y: 15}
+        - {x: 80, y: 20}
+        - {x: 70, y: 29}
+        - {x: 60, y: 33}
+        - {x: 52, y: 40}
+        - {x: 43, y: 48}
+        - {x: 33, y: 60}
+        - {x: 18, y: 87}
+        - {x: 16, y: 97}
+        - {x: 12, y: 111}
+        - {x: 7, y: 127}
+        - {x: -127, y: 127}
+        - {x: -127, y: -127}
+        - {x: 127, y: -127}
+        - {x: 127, y: 8}
+        - {x: 125, y: 9}
+      tessellationDetail: 0.39
+    - serializedVersion: 2
+      name: CholesterolTiles2_BottomCenter
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -125, y: 10}
+        - {x: -127, y: 8}
+        - {x: -127, y: -127}
+        - {x: 127, y: -127}
+        - {x: 127, y: 8}
+        - {x: 95, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CholesterolTiles2_BottomRight
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 127}
+        - {x: -13, y: 92}
+        - {x: -18, y: 79}
+        - {x: -32, y: 64}
+        - {x: -44, y: 46}
+        - {x: -56, y: 35}
+        - {x: -71, y: 23}
+        - {x: -85, y: 18}
+        - {x: -101, y: 13}
+        - {x: -115, y: 8}
+        - {x: -127, y: 7}
+        - {x: -127, y: -127}
+        - {x: 127, y: -127}
+        - {x: 127, y: 127}
+      tessellationDetail: 0.39
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

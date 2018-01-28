@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 91d7adaf27f4d1947af6e2ac3feed506
+timeCreated: 1517111545
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BackgroundsTiles_BottomLeft
+    21300002: BackgroundsTiles_MiddleLeft
+    21300004: BackgroundsTiles_TopLeft
+    21300006: BackgroundsTiles_BottomCenter
+    21300008: BackgroundsTiles_MiddleCenter
+    21300010: BackgroundsTiles_TopCenter
+    21300012: BackgroundsTiles_RightBottom
+    21300014: BackgroundsTiles_RightCenter
+    21300016: BackgroundsTiles_RightTop
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 254, y: 254, z: 254, w: 254}
+  spritePixelsToUnits: 900
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackgroundsTiles_BottomLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -127, y: 127}
+        - {x: 0.5237427, y: 127}
+        - {x: 2.0030975, y: 112.90584}
+        - {x: 7.0557556, y: 90.42911}
+        - {x: 15.022247, y: 69.873764}
+        - {x: 28.140106, y: 47.67009}
+        - {x: 44.833435, y: 27.421158}
+        - {x: 73.43048, y: 11.26416}
+        - {x: 103.120636, y: 0.47087097}
+        - {x: 127, y: 0.5237427}
+        - {x: 127, y: -127}
+        - {x: -127, y: -127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackgroundsTiles_MiddleLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 2.126236, y: -127}
+        - {x: 2.5888367, y: 127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackgroundsTiles_TopLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 125}
+        - {x: -128, y: -125}
+        - {x: 128, y: -125}
+        - {x: 128, y: 125}
+      physicsShape:
+      - - {x: 90.07167, y: -7.4816895}
+        - {x: 60.663513, y: -19.6474}
+        - {x: 36.821808, y: -39.872986}
+        - {x: 19.661667, y: -65.40741}
+        - {x: 6.0888977, y: -96.57129}
+        - {x: 1.6483765, y: -127}
+        - {x: -127, y: -127}
+        - {x: -127, y: 127}
+        - {x: 127, y: 127}
+        - {x: 127, y: -0.60058594}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackgroundsTiles_BottomCenter
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -127, y: -127}
+        - {x: -127, y: 0.31921387}
+        - {x: 127, y: 2.1209717}
+        - {x: 127, y: -127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackgroundsTiles_MiddleCenter
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 254
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -127, y: 127}
+        - {x: -127, y: -127}
+        - {x: 127, y: -127}
+        - {x: 127, y: 127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackgroundsTiles_TopCenter
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 508
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 125}
+        - {x: -128, y: -125}
+        - {x: 128, y: -125}
+        - {x: 128, y: 125}
+      physicsShape:
+      - - {x: -127, y: 0.3255005}
+        - {x: -127, y: 127}
+        - {x: 127, y: 127}
+        - {x: 127, y: 0.39208984}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackgroundsTiles_RightBottom
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125, y: 128}
+        - {x: -125, y: -128}
+        - {x: 125, y: -128}
+        - {x: 125, y: 128}
+      physicsShape:
+      - - {x: 127, y: 127}
+        - {x: 127, y: -127}
+        - {x: -127, y: -127}
+        - {x: -127, y: 1.049469}
+        - {x: -94.1037, y: 5.491226}
+        - {x: -58.848328, y: 16.27179}
+        - {x: -35.50525, y: 35.731506}
+        - {x: -16.678955, y: 65.73735}
+        - {x: -3.04187, y: 93.12421}
+        - {x: -0.59350586, y: 127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackgroundsTiles_RightCenter
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 254
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125, y: 128}
+        - {x: -125, y: -128}
+        - {x: 125, y: -128}
+        - {x: 125, y: 128}
+      physicsShape:
+      - - {x: 127, y: 127}
+        - {x: 127, y: -127}
+        - {x: -1.0239258, y: -127}
+        - {x: -1.1518555, y: 127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackgroundsTiles_RightTop
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 508
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125, y: 125}
+        - {x: -125, y: -125}
+        - {x: 125, y: -125}
+        - {x: 125, y: 125}
+      physicsShape:
+      - - {x: -14.521118, y: -68.30701}
+        - {x: -29.145874, y: -46.86017}
+        - {x: -48.564392, y: -28.640259}
+        - {x: -73.19141, y: -10.391785}
+        - {x: -100.0957, y: -1.9589844}
+        - {x: -127, y: 0.7163696}
+        - {x: -127, y: -127}
+        - {x: -2.1987305, y: -127}
+        - {x: -2.545288, y: -98.36194}
+      tessellationDetail: 0
+    outline:
+    - - {x: -381, y: 381}
+      - {x: -381, y: -381}
+      - {x: 381, y: -381}
+      - {x: 381, y: 381}
+    physicsShape:
+    - - {x: -381, y: 381}
+      - {x: -381, y: -381}
+      - {x: 381, y: -381}
+      - {x: 381, y: 381}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

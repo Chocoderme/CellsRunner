@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69eb722f09e3dde4fabc6b8380b9eed0, type: 3}
+  m_Name: AlcoholTiles_Auto
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+  alcoholSprites:
+  - {fileID: 21300014, guid: 052a6df20a684402b976b89896fa3b4f, type: 3}
+  - {fileID: 21300012, guid: 052a6df20a684402b976b89896fa3b4f, type: 3}
+  - {fileID: 21300016, guid: 052a6df20a684402b976b89896fa3b4f, type: 3}
+  - {fileID: 21300008, guid: 052a6df20a684402b976b89896fa3b4f, type: 3}
+  - {fileID: 21300006, guid: 052a6df20a684402b976b89896fa3b4f, type: 3}
+  - {fileID: 21300010, guid: 052a6df20a684402b976b89896fa3b4f, type: 3}
+  - {fileID: 21300002, guid: 052a6df20a684402b976b89896fa3b4f, type: 3}
+  - {fileID: 21300000, guid: 052a6df20a684402b976b89896fa3b4f, type: 3}
+  - {fileID: 21300004, guid: 052a6df20a684402b976b89896fa3b4f, type: 3}
+  - {fileID: 21300012, guid: 0bf2803d800a24e119db2f619a0a9fa4, type: 3}
+  - {fileID: 21300010, guid: 0bf2803d800a24e119db2f619a0a9fa4, type: 3}
+  - {fileID: 21300014, guid: 0bf2803d800a24e119db2f619a0a9fa4, type: 3}
+  - {fileID: 21300006, guid: 0bf2803d800a24e119db2f619a0a9fa4, type: 3}
+  - {fileID: 21300008, guid: 0bf2803d800a24e119db2f619a0a9fa4, type: 3}
+  - {fileID: 21300002, guid: 0bf2803d800a24e119db2f619a0a9fa4, type: 3}
+  - {fileID: 21300000, guid: 0bf2803d800a24e119db2f619a0a9fa4, type: 3}
+  - {fileID: 21300004, guid: 0bf2803d800a24e119db2f619a0a9fa4, type: 3}
+  preview: {fileID: 21300008, guid: 052a6df20a684402b976b89896fa3b4f, type: 3}
+  errorSprite: {fileID: 21300008, guid: 052a6df20a684402b976b89896fa3b4f, type: 3}
